@@ -15,11 +15,11 @@ Marvel Rivals tells its story across Hero Stories, Gallery Cards, limited-time e
 
 ### English
 
-**[Marvel Rivals Chronicle — Volume I — English v1.1](./Marvel_Rivals_Chronicle_Volume_I_EN_v1.1.pdf)**
+**[Marvel Rivals Chronicle — Volume I — English v1.1](https://github.com/Dzm15/-Marvel_Rivals_Chronicle_Master_file/releases/download/1.1/Marvel_Rivals_Chronicle_Volume_I_EN_v1.1.pdf)**
 
 ### Español
 
-**[Marvel Rivals Chronicle — Volume I — Español v1.1](./Marvel_Rivals_Chronicle_Volume_I_ES_v1.1.pdf)**
+**[Marvel Rivals Chronicle — Volume I — Español v1.1](https://github.com/Dzm15/-Marvel_Rivals_Chronicle_Master_file/releases/download/1.1/Marvel_Rivals_Chronicle_Volume_I_ES_v1.1.pdf)**
 
 ### Structured Data
 
